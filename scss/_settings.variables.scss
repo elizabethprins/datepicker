@@ -2,6 +2,8 @@
 
 $white: #FFFFFF;
 $black: #373A36;
+$blue: #0080FF;
+$kingsblue: #0073ED;
 
 
 // Fonts
@@ -20,3 +22,8 @@ $medium: 1024px;
 $large: 1280px;
 $huge: 1660px;
 $superHuge: 1800px;
+
+// Miscellaneous
+
+$maxWidth: 75rem;
+$timingFunctionBounce: cubic-bezier(.32,2,.55,-0.08);
