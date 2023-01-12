@@ -13,6 +13,12 @@ body {
     line-height: 1.5;
 }
 
+h1, p {
+  color: $kingsblue;
+  text-align: center;
+  margin: .5rem 0;
+}
+
 .visually-hidden {
     width: 1px;
     height: 1px;
@@ -39,4 +45,5 @@ button {
 .wrapper {
     @include main-wrap;
     max-width: 25rem;
+    margin-top: 1.5rem;
 }

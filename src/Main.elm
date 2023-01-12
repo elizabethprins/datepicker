@@ -126,7 +126,8 @@ view model =
     { title = "Accessible datepicker"
     , body =
         [ main_ [ class "main" ]
-            [ h1 [] [ text "pick a date!" ]
+            [ h1 [] [ text "datepicker" ]
+            , p [] [ text "use your keyboard to navigate" ]
             , div [ class "wrapper" ] [ viewDatepicker model ]
             ]
         ]
