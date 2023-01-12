@@ -2,9 +2,10 @@
 An accessible datepicker built in Elm.
 
 ## Includes
-1. [Normalize](https://necolas.github.io/normalize.css/)
-2. [Livereload](https://github.com/napcs/node-livereload)
-3. [Serve](https://github.com/zeit/serve/)
+1. [Livereload](https://github.com/napcs/node-livereload)
+2. [Serve](https://github.com/zeit/serve/)
+3. [Sass](https://sass-lang.com/install)
+4. [`elm-review`](https://package.elm-lang.org/packages/jfmengels/elm-review/2.6.1/)
 
 ## Getting started
 * `make deps` - Install dependencies
