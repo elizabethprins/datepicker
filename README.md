@@ -1,6 +1,8 @@
 # Datepicker
 An accessible datepicker built in Elm.
 
+[Demo](https://inspiring-cookie-76161a.netlify.app/)
+
 ## Includes
 1. [Livereload](https://github.com/napcs/node-livereload)
 2. [Serve](https://github.com/zeit/serve/)
